@@ -233,7 +233,6 @@ gst_icdsobjectsummarize_stop (GstBaseTransform * btrans)
   GST_DEBUG_OBJECT(icdsobjectsummarize, "ctx lib released \n");
   return TRUE;
 }
-// Khai báo cấu trúc dữ liệu cache_objects_tracking
 std::unordered_map<std::string, std::map<guint64, std::map<int32_t, ObjectMeta>>> cache_objects_tracking;
 
 
@@ -298,9 +297,7 @@ gst_icdsobjectsummarize_transform_ip (GstBaseTransform * btrans, GstBuffer * inb
       
     }
   }
-  // Kiểm tra và xóa các đối tượng không còn thấy sau nhiều khung hình
-  // std::cout << "Frame: " << frame_id << std::endl;
-  std::ofstream outfile("Object_summarize");
+  std::ofstream outfile("Object_summarize.yaml");
   outfile << "Frame: " << frame_id << std::endl;
   for (auto& obj_detec : cache_objects_tracking){
     outfile << "Object Category: " << obj_detec.first << std::endl;
@@ -312,7 +309,6 @@ gst_icdsobjectsummarize_transform_ip (GstBaseTransform * btrans, GstBuffer * inb
         auto& meta = unique_id_entry.second;
         gfloat percentage_max = INT_MIN;
 
-        // Tăng số khung hình không thấy đối tượng
         if (!meta.list_frame_ids.empty()) {
             int current_frame = frame_meta->frame_num;
             int last_seen_frame = meta.list_frame_ids.back();
@@ -348,7 +344,6 @@ gst_icdsobjectsummarize_transform_ip (GstBaseTransform * btrans, GstBuffer * inb
                 outfile << "      Best attribute2: " << meta.best_attributes.first << std::endl;
               }
             } else {
-                // Cập nhật số khung hình không thấy
                 meta.unseen_frame_count++;
             }
         }
