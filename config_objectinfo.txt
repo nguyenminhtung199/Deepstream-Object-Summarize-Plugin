@@ -1,0 +1,6 @@
+[property]
+max_frame_track_per_object = 50
+max_frame_unseen_to_collect = 10
+min_percentage_best = 0.4
+min_percentage_top = 0.3
+min_time_value_appear = 5

@@ -1,0 +1,2329 @@
+Frame: 1441
+Object Category: Car
+
+  Object_id: 4
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan 
+      Top attribute: nissan
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 5
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc gmc nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan 
+      Top attribute: gmc
+        Count: 39
+        Total: 50
+        Percentage: 0.78
+      Best attribute2: gmc
+    Object Type: 4
+      Labels: van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van 
+      Top attribute: van
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: van
+
+  Object_id: 6
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan hyundai 
+      Top attribute: nissan
+        Count: 49
+        Total: 50
+        Percentage: 0.98
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 14
+    Object Type: 2
+      Labels: black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 14
+        Total: 14
+        Percentage: 1
+      Best attribute2: black
+    Object Type: 4
+      Labels: sedan sedan sedan coupe coupe coupe sedan 
+
+  Object_id: 16
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 9
+        Total: 28
+        Percentage: 0.321429
+      Top attribute: white
+        Count: 19
+        Total: 28
+        Percentage: 0.678571
+      Best attribute2: white
+    Object Type: 3
+      Labels: chrysler chrysler chrysler chrysler chrysler chrysler chrysler 
+      Top attribute: chrysler
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: chrysler
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: coupe
+        Count: 14
+        Total: 21
+        Percentage: 0.666667
+      Top attribute: sedan
+        Count: 7
+        Total: 21
+        Percentage: 0.333333
+      Best attribute2: coupe
+
+  Object_id: 25
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 14
+        Total: 30
+        Percentage: 0.466667
+      Top attribute: grey
+        Count: 16
+        Total: 30
+        Percentage: 0.533333
+      Best attribute2: grey
+    Object Type: 3
+      Labels: audi audi 
+    Object Type: 4
+      Labels: coupe coupe coupe coupe coupe coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 16
+        Total: 24
+        Percentage: 0.666667
+      Top attribute: coupe
+        Count: 8
+        Total: 24
+        Percentage: 0.333333
+      Best attribute2: sedan
+
+  Object_id: 26
+    Object Type: 2
+      Labels: black black grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey silver silver silver silver 
+      Top attribute: grey
+        Count: 15
+        Total: 21
+        Percentage: 0.714286
+      Best attribute2: grey
+    Object Type: 3
+      Labels: jeep jeep jeep jeep 
+    Object Type: 4
+      Labels: sedan sedan sedan sedan 
+
+  Object_id: 34
+    Object Type: 3
+      Labels: chrysler chrysler chrysler 
+    Object Type: 4
+      Labels: truck truck truck 
+
+  Object_id: 39
+    Object Type: 2
+      Labels: brown brown red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red 
+      Top attribute: red
+        Count: 48
+        Total: 50
+        Percentage: 0.96
+      Best attribute2: red
+    Object Type: 3
+      Labels: ford ford ford ford mercedes mercedes mercedes mercedes ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 12
+        Total: 16
+        Percentage: 0.75
+      Best attribute2: ford
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 35
+        Total: 35
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 43
+    Object Type: 2
+      Labels: black black black black black black black black black black black black black black black black black black black black black black black black black black black grey grey grey grey grey black black black black black black black black black black black black black brown brown brown brown brown 
+      Top attribute: black
+        Count: 40
+        Total: 50
+        Percentage: 0.8
+      Best attribute2: black
+    Object Type: 3
+      Labels: acura acura acura acura chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet ford ford ford ford ford ford ford ford ford subaru subaru subaru subaru subaru toyota ford ford ford ford 
+      Top attribute: ford
+        Count: 13
+        Total: 34
+        Percentage: 0.382353
+      Top attribute: chevrolet
+        Count: 11
+        Total: 34
+        Percentage: 0.323529
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: truck
+        Count: 41
+        Total: 50
+        Percentage: 0.82
+      Best attribute2: truck
+
+  Object_id: 53
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey black black black black black black black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 20
+        Total: 27
+        Percentage: 0.740741
+      Best attribute2: black
+    Object Type: 3
+      Labels: jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep nissan nissan nissan 
+      Top attribute: jeep
+        Count: 24
+        Total: 27
+        Percentage: 0.888889
+      Best attribute2: jeep
+    Object Type: 4
+      Labels: truck truck truck truck truck suv suv suv suv suv suv suv sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: suv
+        Count: 7
+        Total: 20
+        Percentage: 0.35
+      Top attribute: sedan
+        Count: 8
+        Total: 20
+        Percentage: 0.4
+
+  Object_id: 61
+    Object Type: 2
+      Labels: black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: black
+    Object Type: 3
+      Labels: ford ford ford ford ford ford mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes 
+      Top attribute: mercedes
+        Count: 8
+        Total: 14
+        Percentage: 0.571429
+      Top attribute: ford
+        Count: 6
+        Total: 14
+        Percentage: 0.428571
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: truck truck truck truck truck truck suv suv suv suv suv suv suv suv suv suv suv suv suv truck truck truck truck 
+      Top attribute: suv
+        Count: 13
+        Total: 23
+        Percentage: 0.565217
+      Top attribute: truck
+        Count: 10
+        Total: 23
+        Percentage: 0.434783
+      Best attribute2: suv
+
+  Object_id: 63
+    Object Type: 2
+      Labels: white white white white white white white white white white white silver silver silver silver silver silver silver silver silver silver silver silver white white white white white white white white silver silver silver silver silver silver silver silver white white white white white white white silver silver silver silver 
+      Top attribute: silver
+        Count: 24
+        Total: 50
+        Percentage: 0.48
+      Top attribute: white
+        Count: 26
+        Total: 50
+        Percentage: 0.52
+      Best attribute2: white
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan hyundai hyundai hyundai hyundai hyundai hyundai hyundai hyundai 
+      Top attribute: nissan
+        Count: 42
+        Total: 50
+        Percentage: 0.84
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv sedan sedan sedan sedan truck truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: suv
+        Count: 20
+        Total: 43
+        Percentage: 0.465116
+      Top attribute: sedan
+        Count: 19
+        Total: 43
+        Percentage: 0.44186
+      Best attribute2: suv
+
+  Object_id: 65
+    Object Type: 2
+      Labels: white 
+
+  Object_id: 68
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver white white white white silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 19
+        Total: 48
+        Percentage: 0.395833
+      Top attribute: silver
+        Count: 29
+        Total: 48
+        Percentage: 0.604167
+      Best attribute2: silver
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan acura acura acura acura honda honda honda honda honda ford ford 
+      Top attribute: nissan
+        Count: 6
+        Total: 17
+        Percentage: 0.352941
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 45
+        Total: 45
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 76
+    Object Type: 2
+      Labels: grey grey grey grey grey 
+      Top attribute: grey
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: audi audi audi 
+    Object Type: 4
+      Labels: coupe coupe coupe 
+
+  Object_id: 78
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 82
+    Object Type: 2
+      Labels: brown brown 
+    Object Type: 3
+      Labels: hyundai hyundai 
+
+  Object_id: 84
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white gold gold 
+      Top attribute: white
+        Count: 48
+        Total: 50
+        Percentage: 0.96
+      Best attribute2: white
+    Object Type: 3
+      Labels: toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota lexus lexus 
+      Top attribute: toyota
+        Count: 48
+        Total: 50
+        Percentage: 0.96
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 40
+        Total: 50
+        Percentage: 0.8
+      Best attribute2: sedan
+
+  Object_id: 85
+    Object Type: 2
+      Labels: silver silver 
+    Object Type: 4
+      Labels: truck truck 
+
+  Object_id: 88
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 20
+        Total: 20
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 20
+        Total: 20
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 90
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown red red red red red red red red red red red red red 
+      Top attribute: red
+        Count: 13
+        Total: 37
+        Percentage: 0.351351
+      Top attribute: brown
+        Count: 24
+        Total: 37
+        Percentage: 0.648649
+      Best attribute2: brown
+    Object Type: 3
+      Labels: acura acura acura acura acura acura acura acura acura acura toyota toyota mazda mazda mazda honda honda 
+      Top attribute: acura
+        Count: 10
+        Total: 17
+        Percentage: 0.588235
+      Best attribute2: acura
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: coupe
+        Count: 14
+        Total: 41
+        Percentage: 0.341463
+      Top attribute: sedan
+        Count: 27
+        Total: 41
+        Percentage: 0.658537
+      Best attribute2: sedan
+
+  Object_id: 91
+    Object Type: 2
+      Labels: brown brown 
+    Object Type: 4
+      Labels: van van 
+
+  Object_id: 106
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 23
+        Total: 23
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: bmw bmw bmw bmw bmw bmw bmw chevrolet chevrolet chevrolet 
+      Top attribute: bmw
+        Count: 7
+        Total: 10
+        Percentage: 0.7
+      Best attribute2: bmw
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 26
+        Total: 26
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 107
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey brown brown brown brown brown brown brown 
+      Top attribute: grey
+        Count: 43
+        Total: 50
+        Percentage: 0.86
+      Best attribute2: grey
+    Object Type: 3
+      Labels: acura toyota toyota toyota toyota toyota toyota toyota toyota acura acura acura acura acura acura acura acura acura acura toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota honda 
+      Top attribute: toyota
+        Count: 38
+        Total: 50
+        Percentage: 0.76
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: sedan
+        Count: 43
+        Total: 50
+        Percentage: 0.86
+      Best attribute2: sedan
+
+  Object_id: 110
+    Object Type: 2
+      Labels: black black black 
+    Object Type: 3
+      Labels: ford ford ford 
+
+  Object_id: 111
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 17
+        Total: 17
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: dodge dodge dodge 
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv truck truck truck truck truck 
+      Top attribute: suv
+        Count: 15
+        Total: 20
+        Percentage: 0.75
+      Best attribute2: suv
+
+  Object_id: 116
+    Object Type: 2
+      Labels: green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green green 
+      Top attribute: green
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: green
+    Object Type: 3
+      Labels: jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet ford 
+      Top attribute: chevrolet
+        Count: 10
+        Total: 30
+        Percentage: 0.333333
+      Top attribute: jeep
+        Count: 19
+        Total: 30
+        Percentage: 0.633333
+      Best attribute2: jeep
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle truck 
+      Top attribute: largevehicle
+        Count: 49
+        Total: 50
+        Percentage: 0.98
+      Best attribute2: largevehicle
+
+  Object_id: 122
+    Object Type: 2
+      Labels: silver silver silver silver 
+    Object Type: 3
+      Labels: honda honda honda honda 
+
+  Object_id: 123
+    Object Type: 2
+      Labels: silver 
+    Object Type: 4
+      Labels: coupe coupe coupe coupe 
+
+  Object_id: 124
+    Object Type: 2
+      Labels: grey grey grey grey grey grey brown brown brown grey grey grey grey black black black black black black black black black black 
+      Top attribute: black
+        Count: 10
+        Total: 23
+        Percentage: 0.434783
+      Top attribute: grey
+        Count: 10
+        Total: 23
+        Percentage: 0.434783
+      Best attribute2: black
+    Object Type: 3
+      Labels: jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep jeep bmw bmw bmw toyota toyota toyota toyota toyota toyota 
+      Top attribute: jeep
+        Count: 12
+        Total: 21
+        Percentage: 0.571429
+      Best attribute2: jeep
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv sedan sedan sedan sedan sedan sedan sedan sedan suv suv suv suv suv suv truck truck truck truck 
+      Top attribute: suv
+        Count: 15
+        Total: 27
+        Percentage: 0.555556
+      Best attribute2: suv
+
+  Object_id: 125
+    Object Type: 2
+      Labels: white white white white white white silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 8
+        Total: 14
+        Percentage: 0.571429
+      Top attribute: white
+        Count: 6
+        Total: 14
+        Percentage: 0.428571
+      Best attribute2: silver
+    Object Type: 3
+      Labels: toyota toyota bmw bmw bmw bmw 
+    Object Type: 4
+      Labels: coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: coupe
+        Count: 14
+        Total: 14
+        Percentage: 1
+      Best attribute2: coupe
+
+  Object_id: 129
+    Object Type: 2
+      Labels: black black black black black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 18
+        Total: 18
+        Percentage: 1
+      Best attribute2: black
+    Object Type: 3
+      Labels: ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 18
+        Total: 18
+        Percentage: 1
+      Best attribute2: ford
+
+  Object_id: 153
+    Object Type: 2
+      Labels: silver silver silver 
+    Object Type: 3
+      Labels: ford ford ford 
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle 
+
+  Object_id: 154
+    Object Type: 2
+      Labels: silver silver silver silver silver silver white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 22
+        Total: 28
+        Percentage: 0.785714
+      Best attribute2: white
+    Object Type: 3
+      Labels: ford hyundai hyundai hyundai hyundai hyundai hyundai hyundai hyundai hyundai hyundai hyundai 
+      Top attribute: hyundai
+        Count: 11
+        Total: 12
+        Percentage: 0.916667
+      Best attribute2: hyundai
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 15
+        Total: 15
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 161
+    Object Type: 2
+      Labels: silver silver silver white white white silver silver silver silver silver 
+      Top attribute: silver
+        Count: 8
+        Total: 11
+        Percentage: 0.727273
+      Best attribute2: silver
+    Object Type: 3
+      Labels: mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes 
+      Top attribute: mercedes
+        Count: 8
+        Total: 8
+        Percentage: 1
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: sedan sedan sedan coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 11
+        Total: 13
+        Percentage: 0.846154
+      Best attribute2: sedan
+
+  Object_id: 175
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white silver silver silver silver silver silver silver silver silver 
+      Top attribute: white
+        Count: 24
+        Total: 33
+        Percentage: 0.727273
+      Best attribute2: white
+    Object Type: 3
+      Labels: toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: toyota
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 29
+        Total: 41
+        Percentage: 0.707317
+      Best attribute2: sedan
+
+  Object_id: 176
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 24
+        Total: 24
+        Percentage: 1
+      Best attribute2: brown
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 24
+        Total: 46
+        Percentage: 0.521739
+      Top attribute: truck
+        Count: 22
+        Total: 46
+        Percentage: 0.478261
+      Best attribute2: sedan
+
+  Object_id: 179
+    Object Type: 2
+      Labels: black black brown brown red red red red red red red red red red red red red red red red 
+      Top attribute: red
+        Count: 16
+        Total: 20
+        Percentage: 0.8
+      Best attribute2: red
+    Object Type: 3
+      Labels: acura acura acura acura acura acura acura acura acura mercedes mercedes mercedes mercedes bmw bmw bmw bmw audi audi audi audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 10
+        Total: 27
+        Percentage: 0.37037
+      Top attribute: acura
+        Count: 9
+        Total: 27
+        Percentage: 0.333333
+    Object Type: 4
+      Labels: truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: coupe
+        Count: 14
+        Total: 30
+        Percentage: 0.466667
+      Top attribute: sedan
+        Count: 13
+        Total: 30
+        Percentage: 0.433333
+      Best attribute2: coupe
+
+  Object_id: 181
+    Object Type: 2
+      Labels: silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 6
+        Total: 6
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 6
+        Total: 6
+        Percentage: 1
+      Best attribute2: audi
+    Object Type: 4
+      Labels: truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 6
+        Total: 6
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 182
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey brown brown brown brown brown brown brown brown brown brown black black 
+      Top attribute: brown
+        Count: 10
+        Total: 22
+        Percentage: 0.454545
+      Top attribute: grey
+        Count: 10
+        Total: 22
+        Percentage: 0.454545
+      Best attribute2: brown
+    Object Type: 3
+      Labels: mercedes mercedes volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen 
+      Top attribute: volkswagen
+        Count: 18
+        Total: 20
+        Percentage: 0.9
+      Best attribute2: volkswagen
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 25
+        Total: 29
+        Percentage: 0.862069
+      Best attribute2: sedan
+
+  Object_id: 184
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white silver silver silver silver silver silver silver white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 32
+        Total: 39
+        Percentage: 0.820513
+      Best attribute2: white
+    Object Type: 3
+      Labels: lexus lexus lexus lexus lexus bmw bmw bmw 
+      Top attribute: lexus
+        Count: 5
+        Total: 8
+        Percentage: 0.625
+      Best attribute2: lexus
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan suv suv van van suv suv suv 
+      Top attribute: suv
+        Count: 5
+        Total: 12
+        Percentage: 0.416667
+      Top attribute: sedan
+        Count: 5
+        Total: 12
+        Percentage: 0.416667
+      Best attribute2: suv
+
+  Object_id: 185
+    Object Type: 2
+      Labels: silver silver silver white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 31
+        Total: 34
+        Percentage: 0.911765
+      Best attribute2: white
+    Object Type: 3
+      Labels: nissan nissan 
+    Object Type: 4
+      Labels: van van van van van van van 
+      Top attribute: van
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: van
+
+  Object_id: 194
+    Object Type: 2
+      Labels: silver silver silver silver grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 46
+        Total: 50
+        Percentage: 0.92
+      Best attribute2: grey
+    Object Type: 3
+      Labels: toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: toyota
+        Count: 43
+        Total: 43
+        Percentage: 1
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv truck truck truck truck truck suv suv suv suv suv suv suv suv suv suv truck truck truck truck truck truck truck truck truck truck truck truck truck truck suv suv suv suv suv truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 26
+        Total: 50
+        Percentage: 0.52
+      Top attribute: suv
+        Count: 24
+        Total: 50
+        Percentage: 0.48
+      Best attribute2: truck
+
+  Object_id: 197
+    Object Type: 2
+      Labels: grey grey black black grey grey brown brown brown brown brown brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 13
+        Total: 19
+        Percentage: 0.684211
+      Best attribute2: brown
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan coupe coupe sedan sedan sedan 
+      Top attribute: sedan
+        Count: 9
+        Total: 11
+        Percentage: 0.818182
+      Best attribute2: sedan
+
+  Object_id: 203
+    Object Type: 2
+      Labels: silver silver 
+    Object Type: 4
+      Labels: suv suv 
+
+  Object_id: 205
+    Object Type: 2
+      Labels: red 
+    Object Type: 3
+      Labels: ford ford ford 
+    Object Type: 4
+      Labels: coupe 
+
+  Object_id: 209
+    Object Type: 2
+      Labels: red red red red red red red 
+      Top attribute: red
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: red
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 222
+    Object Type: 2
+      Labels: white white white white white 
+      Top attribute: white
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: chrysler chrysler chrysler chrysler chrysler 
+      Top attribute: chrysler
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: chrysler
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 225
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 34
+        Total: 34
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: nissan nissan nissan ford ford ford ford ford ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 13
+        Total: 16
+        Percentage: 0.8125
+      Best attribute2: ford
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 34
+        Total: 34
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 228
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 47
+        Total: 47
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: ford ford ford nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan subaru subaru subaru subaru subaru subaru subaru subaru subaru subaru 
+      Top attribute: subaru
+        Count: 10
+        Total: 23
+        Percentage: 0.434783
+      Top attribute: nissan
+        Count: 10
+        Total: 23
+        Percentage: 0.434783
+      Best attribute2: subaru
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck coupe coupe 
+      Top attribute: truck
+        Count: 24
+        Total: 26
+        Percentage: 0.923077
+      Best attribute2: truck
+
+  Object_id: 235
+    Object Type: 2
+      Labels: white white silver silver silver 
+    Object Type: 4
+      Labels: sedan sedan sedan 
+
+  Object_id: 238
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 23
+        Total: 23
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: toyota
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: sedan sedan sedan sedan suv suv 
+
+  Object_id: 240
+    Object Type: 2
+      Labels: white white white white white white white white 
+      Top attribute: white
+        Count: 8
+        Total: 8
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: gmc gmc gmc gmc gmc jeep jeep jeep jeep 
+      Top attribute: gmc
+        Count: 5
+        Total: 9
+        Percentage: 0.555556
+      Best attribute2: gmc
+
+  Object_id: 242
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 26
+        Total: 50
+        Percentage: 0.52
+      Top attribute: grey
+        Count: 24
+        Total: 50
+        Percentage: 0.48
+      Best attribute2: silver
+    Object Type: 3
+      Labels: acura acura acura acura acura acura acura ford ford ford ford acura acura acura ford ford ford 
+      Top attribute: ford
+        Count: 7
+        Total: 17
+        Percentage: 0.411765
+      Top attribute: acura
+        Count: 10
+        Total: 17
+        Percentage: 0.588235
+      Best attribute2: acura
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv sedan sedan 
+      Top attribute: suv
+        Count: 35
+        Total: 37
+        Percentage: 0.945946
+      Best attribute2: suv
+
+  Object_id: 244
+    Object Type: 2
+      Labels: black black 
+    Object Type: 4
+      Labels: truck truck 
+
+  Object_id: 253
+    Object Type: 2
+      Labels: black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 14
+        Total: 14
+        Percentage: 1
+      Best attribute2: black
+    Object Type: 3
+      Labels: volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen nissan nissan nissan nissan toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: toyota
+        Count: 11
+        Total: 22
+        Percentage: 0.5
+      Top attribute: volkswagen
+        Count: 7
+        Total: 22
+        Percentage: 0.318182
+      Best attribute2: toyota
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan suv suv 
+      Top attribute: sedan
+        Count: 29
+        Total: 31
+        Percentage: 0.935484
+      Best attribute2: sedan
+
+  Object_id: 256
+    Object Type: 2
+      Labels: white white white white white white white white white 
+      Top attribute: white
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 260
+    Object Type: 2
+      Labels: white white 
+    Object Type: 4
+      Labels: largevehicle largevehicle 
+
+  Object_id: 269
+    Object Type: 2
+      Labels: white white white 
+    Object Type: 3
+      Labels: ford ford ford 
+
+  Object_id: 274
+    Object Type: 3
+      Labels: ford ford 
+    Object Type: 4
+      Labels: suv suv 
+
+  Object_id: 279
+    Object Type: 2
+      Labels: silver silver silver silver silver silver white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 37
+        Total: 43
+        Percentage: 0.860465
+      Best attribute2: white
+    Object Type: 3
+      Labels: chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet mercedes mercedes mercedes mercedes mercedes mercedes mercedes chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet 
+      Top attribute: mercedes
+        Count: 7
+        Total: 21
+        Percentage: 0.333333
+      Top attribute: chevrolet
+        Count: 14
+        Total: 21
+        Percentage: 0.666667
+      Best attribute2: chevrolet
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 27
+        Total: 27
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 280
+    Object Type: 2
+      Labels: black black black black black black black black black black brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 7
+        Total: 17
+        Percentage: 0.411765
+      Top attribute: black
+        Count: 10
+        Total: 17
+        Percentage: 0.588235
+      Best attribute2: black
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 15
+        Total: 15
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 281
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey silver silver silver silver silver grey grey grey grey white silver 
+      Top attribute: grey
+        Count: 24
+        Total: 31
+        Percentage: 0.774194
+      Best attribute2: grey
+    Object Type: 3
+      Labels: honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda toyota toyota toyota nissan nissan nissan nissan nissan toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota toyota honda 
+      Top attribute: toyota
+        Count: 14
+        Total: 35
+        Percentage: 0.4
+      Top attribute: honda
+        Count: 16
+        Total: 35
+        Percentage: 0.457143
+      Best attribute2: honda
+    Object Type: 4
+      Labels: suv suv suv suv suv sedan sedan sedan suv suv suv suv suv suv suv sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 23
+        Total: 35
+        Percentage: 0.657143
+      Top attribute: suv
+        Count: 12
+        Total: 35
+        Percentage: 0.342857
+      Best attribute2: sedan
+
+  Object_id: 300
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey black black grey grey grey grey grey grey grey grey red red red 
+      Top attribute: grey
+        Count: 45
+        Total: 50
+        Percentage: 0.9
+      Best attribute2: grey
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan mercedes mercedes mercedes mercedes mercedes toyota toyota hyundai hyundai 
+      Top attribute: nissan
+        Count: 19
+        Total: 28
+        Percentage: 0.678571
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: van van van van van truck truck truck truck truck truck truck truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 13
+        Total: 28
+        Percentage: 0.464286
+      Top attribute: truck
+        Count: 10
+        Total: 28
+        Percentage: 0.357143
+      Best attribute2: sedan
+
+  Object_id: 301
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge chevrolet chevrolet chevrolet chevrolet nissan nissan 
+      Top attribute: dodge
+        Count: 12
+        Total: 18
+        Percentage: 0.666667
+      Best attribute2: dodge
+    Object Type: 4
+      Labels: suv suv suv suv suv van van van van van van van van van van van 
+      Top attribute: van
+        Count: 11
+        Total: 16
+        Percentage: 0.6875
+      Top attribute: suv
+        Count: 5
+        Total: 16
+        Percentage: 0.3125
+      Best attribute2: van
+
+  Object_id: 302
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 21
+        Total: 21
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 20
+        Total: 20
+        Percentage: 1
+      Best attribute2: audi
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 304
+    Object Type: 2
+      Labels: white white white white white white silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 18
+        Total: 24
+        Percentage: 0.75
+      Best attribute2: silver
+    Object Type: 3
+      Labels: lexus lexus lexus lexus lexus lexus lexus lexus lexus lexus lexus lexus lexus 
+      Top attribute: lexus
+        Count: 13
+        Total: 13
+        Percentage: 1
+      Best attribute2: lexus
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 19
+        Total: 19
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 305
+    Object Type: 2
+      Labels: red red red red red red red red red red brown brown brown brown red red 
+      Top attribute: red
+        Count: 12
+        Total: 16
+        Percentage: 0.75
+      Best attribute2: red
+    Object Type: 3
+      Labels: hyundai hyundai hyundai hyundai 
+    Object Type: 4
+      Labels: coupe coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 8
+        Total: 12
+        Percentage: 0.666667
+      Best attribute2: sedan
+
+  Object_id: 312
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 21
+        Total: 21
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 318
+    Object Type: 2
+      Labels: white white white white white white white white white white 
+      Top attribute: white
+        Count: 10
+        Total: 10
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 10
+        Total: 10
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 322
+    Object Type: 2
+      Labels: silver silver white white white white silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 14
+        Total: 18
+        Percentage: 0.777778
+      Best attribute2: silver
+    Object Type: 3
+      Labels: audi audi audi audi audi audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 12
+        Total: 12
+        Percentage: 1
+      Best attribute2: audi
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 8
+        Total: 8
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 323
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown grey grey grey grey grey grey grey gold gold gold 
+      Top attribute: grey
+        Count: 7
+        Total: 21
+        Percentage: 0.333333
+      Top attribute: brown
+        Count: 11
+        Total: 21
+        Percentage: 0.52381
+      Best attribute2: brown
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 26
+        Total: 29
+        Percentage: 0.896552
+      Best attribute2: sedan
+
+  Object_id: 326
+    Object Type: 2
+      Labels: brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 6
+        Total: 6
+        Percentage: 1
+      Best attribute2: brown
+    Object Type: 3
+      Labels: toyota toyota 
+    Object Type: 4
+      Labels: van van 
+
+  Object_id: 330
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes volkswagen volkswagen volkswagen volkswagen volkswagen volkswagen nissan 
+      Top attribute: mercedes
+        Count: 25
+        Total: 32
+        Percentage: 0.78125
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 34
+        Total: 34
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 332
+    Object Type: 2
+      Labels: grey grey grey grey brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 8
+        Total: 12
+        Percentage: 0.666667
+      Best attribute2: brown
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan hyundai hyundai hyundai 
+      Top attribute: nissan
+        Count: 5
+        Total: 8
+        Percentage: 0.625
+      Best attribute2: nissan
+
+  Object_id: 333
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 25
+        Total: 25
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 25
+        Total: 25
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 334
+    Object Type: 2
+      Labels: silver silver silver silver 
+
+  Object_id: 336
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white silver silver silver silver silver 
+      Top attribute: white
+        Count: 22
+        Total: 27
+        Percentage: 0.814815
+      Best attribute2: white
+    Object Type: 3
+      Labels: mazda mazda mazda mazda toyota toyota toyota mazda mazda mazda mazda toyota toyota 
+      Top attribute: toyota
+        Count: 5
+        Total: 13
+        Percentage: 0.384615
+      Top attribute: mazda
+        Count: 8
+        Total: 13
+        Percentage: 0.615385
+      Best attribute2: mazda
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: coupe
+        Count: 19
+        Total: 27
+        Percentage: 0.703704
+      Best attribute2: coupe
+
+  Object_id: 352
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 354
+    Object Type: 2
+      Labels: black black black black black black black black black black black black grey grey grey grey grey grey grey grey grey grey grey brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 17
+        Total: 40
+        Percentage: 0.425
+      Best attribute2: brown
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan 
+      Top attribute: nissan
+        Count: 32
+        Total: 32
+        Percentage: 1
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 32
+        Total: 32
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 356
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey black black black black black black black black black black black black black black black black black black black black black 
+      Top attribute: black
+        Count: 21
+        Total: 50
+        Percentage: 0.42
+      Top attribute: grey
+        Count: 29
+        Total: 50
+        Percentage: 0.58
+      Best attribute2: grey
+    Object Type: 3
+      Labels: mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes hyundai hyundai 
+      Top attribute: mercedes
+        Count: 38
+        Total: 40
+        Percentage: 0.95
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck sedan sedan sedan truck truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 26
+        Total: 44
+        Percentage: 0.590909
+      Top attribute: truck
+        Count: 18
+        Total: 44
+        Percentage: 0.409091
+      Best attribute2: sedan
+
+  Object_id: 358
+    Object Type: 2
+      Labels: white white white white white white white 
+      Top attribute: white
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 7
+        Total: 7
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 360
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 38
+        Total: 38
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: nissan nissan 
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 38
+        Total: 38
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 361
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: lexus lexus lexus lexus chevrolet chevrolet chevrolet chevrolet chevrolet lexus lexus lexus lexus lexus lexus lexus lexus nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan lexus lexus lexus lexus honda honda honda honda 
+      Top attribute: nissan
+        Count: 11
+        Total: 36
+        Percentage: 0.305556
+      Top attribute: lexus
+        Count: 16
+        Total: 36
+        Percentage: 0.444444
+      Best attribute2: lexus
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 22
+        Total: 22
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 370
+    Object Type: 4
+      Labels: sedan sedan sedan 
+
+  Object_id: 372
+    Object Type: 2
+      Labels: white white white white white white white white white white white white silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 18
+        Total: 30
+        Percentage: 0.6
+      Top attribute: white
+        Count: 12
+        Total: 30
+        Percentage: 0.4
+      Best attribute2: silver
+    Object Type: 3
+      Labels: nissan nissan 
+    Object Type: 4
+      Labels: sedan sedan sedan sedan suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 13
+        Total: 17
+        Percentage: 0.764706
+      Best attribute2: suv
+
+  Object_id: 373
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 27
+        Total: 27
+        Percentage: 1
+      Best attribute2: brown
+    Object Type: 3
+      Labels: audi audi audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: audi
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan suv suv 
+      Top attribute: sedan
+        Count: 17
+        Total: 19
+        Percentage: 0.894737
+      Best attribute2: sedan
+
+  Object_id: 379
+    Object Type: 2
+      Labels: brown brown black black black black black black 
+      Top attribute: black
+        Count: 6
+        Total: 8
+        Percentage: 0.75
+      Best attribute2: black
+    Object Type: 4
+      Labels: suv suv suv suv suv 
+      Top attribute: suv
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 402
+    Object Type: 2
+      Labels: silver silver silver white white white silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 21
+        Total: 24
+        Percentage: 0.875
+      Best attribute2: silver
+    Object Type: 3
+      Labels: bmw bmw bmw bmw bmw bmw bmw bmw bmw toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: toyota
+        Count: 7
+        Total: 16
+        Percentage: 0.4375
+      Top attribute: bmw
+        Count: 9
+        Total: 16
+        Percentage: 0.5625
+      Best attribute2: bmw
+    Object Type: 4
+      Labels: coupe coupe coupe sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe sedan sedan sedan coupe coupe coupe coupe coupe coupe sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 13
+        Total: 27
+        Percentage: 0.481481
+      Top attribute: coupe
+        Count: 14
+        Total: 27
+        Percentage: 0.518519
+      Best attribute2: coupe
+
+  Object_id: 403
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 17
+        Total: 32
+        Percentage: 0.53125
+      Top attribute: silver
+        Count: 15
+        Total: 32
+        Percentage: 0.46875
+      Best attribute2: white
+    Object Type: 3
+      Labels: mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes 
+      Top attribute: mercedes
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv sedan sedan 
+      Top attribute: suv
+        Count: 12
+        Total: 14
+        Percentage: 0.857143
+      Best attribute2: suv
+
+  Object_id: 421
+    Object Type: 2
+      Labels: silver silver silver white white white white white silver silver silver silver silver silver silver silver silver silver white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 37
+        Total: 50
+        Percentage: 0.74
+      Best attribute2: white
+    Object Type: 3
+      Labels: dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge dodge chevrolet chevrolet chevrolet 
+      Top attribute: dodge
+        Count: 47
+        Total: 50
+        Percentage: 0.94
+      Best attribute2: dodge
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 424
+    Object Type: 2
+      Labels: white white white white white white white white white 
+      Top attribute: white
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: white
+
+  Object_id: 426
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 31
+        Total: 31
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan 
+      Top attribute: nissan
+        Count: 27
+        Total: 27
+        Percentage: 1
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 31
+        Total: 31
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 427
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 13
+        Total: 13
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 13
+        Total: 13
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 430
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 26
+        Total: 26
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes mercedes 
+      Top attribute: mercedes
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: mercedes
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 26
+        Total: 26
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 433
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown black black black black black black black black 
+      Top attribute: brown
+        Count: 21
+        Total: 29
+        Percentage: 0.724138
+      Best attribute2: brown
+    Object Type: 3
+      Labels: bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw 
+      Top attribute: bmw
+        Count: 12
+        Total: 12
+        Percentage: 1
+      Best attribute2: bmw
+    Object Type: 4
+      Labels: van van van van van van truck truck truck van van van van van van van van 
+      Top attribute: van
+        Count: 14
+        Total: 17
+        Percentage: 0.823529
+      Best attribute2: van
+
+  Object_id: 434
+    Object Type: 2
+      Labels: white 
+    Object Type: 4
+      Labels: sedan sedan sedan sedan 
+
+  Object_id: 435
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver white white grey grey 
+      Top attribute: silver
+        Count: 12
+        Total: 16
+        Percentage: 0.75
+      Best attribute2: silver
+    Object Type: 3
+      Labels: chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet toyota toyota toyota toyota toyota toyota toyota toyota 
+      Top attribute: chevrolet
+        Count: 32
+        Total: 40
+        Percentage: 0.8
+      Best attribute2: chevrolet
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 27
+        Total: 27
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 441
+    Object Type: 2
+      Labels: white white 
+
+  Object_id: 444
+    Object Type: 2
+      Labels: white white 
+    Object Type: 4
+      Labels: truck truck 
+
+  Object_id: 449
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 20
+        Total: 20
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 20
+        Total: 20
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 457
+    Object Type: 2
+      Labels: black black black black brown brown brown brown brown brown brown brown black black black black black brown brown brown 
+      Top attribute: brown
+        Count: 11
+        Total: 20
+        Percentage: 0.55
+      Top attribute: black
+        Count: 9
+        Total: 20
+        Percentage: 0.45
+      Best attribute2: brown
+    Object Type: 3
+      Labels: bmw bmw bmw audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 7
+        Total: 10
+        Percentage: 0.7
+      Best attribute2: audi
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan suv suv suv sedan sedan sedan 
+      Top attribute: sedan
+        Count: 24
+        Total: 27
+        Percentage: 0.888889
+      Best attribute2: sedan
+
+  Object_id: 458
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey silver silver silver 
+      Top attribute: grey
+        Count: 47
+        Total: 50
+        Percentage: 0.94
+      Best attribute2: grey
+    Object Type: 3
+      Labels: bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw bmw hyundai 
+      Top attribute: bmw
+        Count: 24
+        Total: 25
+        Percentage: 0.96
+      Best attribute2: bmw
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe 
+      Top attribute: sedan
+        Count: 45
+        Total: 50
+        Percentage: 0.9
+      Best attribute2: sedan
+
+  Object_id: 462
+    Object Type: 2
+      Labels: grey grey grey grey grey blue blue blue blue grey grey blue blue blue 
+      Top attribute: blue
+        Count: 7
+        Total: 14
+        Percentage: 0.5
+      Top attribute: grey
+        Count: 7
+        Total: 14
+        Percentage: 0.5
+      Best attribute2: blue
+    Object Type: 3
+      Labels: acura acura acura acura acura ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 25
+        Total: 30
+        Percentage: 0.833333
+      Best attribute2: ford
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 32
+        Total: 40
+        Percentage: 0.8
+      Best attribute2: sedan
+
+  Object_id: 465
+    Object Type: 2
+      Labels: red red red red red 
+      Top attribute: red
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: red
+
+  Object_id: 475
+    Object Type: 4
+      Labels: largevehicle largevehicle 
+
+  Object_id: 479
+    Object Type: 2
+      Labels: black black black black black black blue blue 
+      Top attribute: black
+        Count: 6
+        Total: 8
+        Percentage: 0.75
+      Best attribute2: black
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan ford ford ford ford audi audi audi 
+      Top attribute: nissan
+        Count: 12
+        Total: 19
+        Percentage: 0.631579
+      Best attribute2: nissan
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 17
+        Total: 26
+        Percentage: 0.653846
+      Top attribute: sedan
+        Count: 9
+        Total: 26
+        Percentage: 0.346154
+      Best attribute2: suv
+
+  Object_id: 480
+    Object Type: 2
+      Labels: white 
+    Object Type: 4
+      Labels: van 
+
+  Object_id: 483
+    Object Type: 2
+      Labels: grey grey grey grey grey silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 21
+        Total: 26
+        Percentage: 0.807692
+      Best attribute2: silver
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 9
+        Total: 19
+        Percentage: 0.473684
+      Top attribute: truck
+        Count: 10
+        Total: 19
+        Percentage: 0.526316
+      Best attribute2: truck
+
+  Object_id: 489
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 17
+        Total: 17
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: van van van van van van van van van van van van van van van van van 
+      Top attribute: van
+        Count: 17
+        Total: 17
+        Percentage: 1
+      Best attribute2: van
+
+  Object_id: 492
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 26
+        Total: 26
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 3
+      Labels: dodge dodge dodge jeep jeep jeep jeep ford ford ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 10
+        Total: 17
+        Percentage: 0.588235
+      Best attribute2: ford
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 24
+        Total: 24
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 502
+    Object Type: 2
+      Labels: silver silver silver 
+
+  Object_id: 503
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet chevrolet honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda honda hyundai hyundai hyundai hyundai hyundai 
+      Top attribute: honda
+        Count: 28
+        Total: 42
+        Percentage: 0.666667
+      Best attribute2: honda
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe 
+      Top attribute: suv
+        Count: 15
+        Total: 31
+        Percentage: 0.483871
+      Top attribute: sedan
+        Count: 12
+        Total: 31
+        Percentage: 0.387097
+      Best attribute2: suv
+
+  Object_id: 506
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: suv suv suv 
+
+  Object_id: 508
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 15
+        Total: 15
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: dodge dodge dodge dodge 
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv 
+      Top attribute: suv
+        Count: 12
+        Total: 12
+        Percentage: 1
+      Best attribute2: suv
+
+  Object_id: 512
+    Object Type: 2
+      Labels: white 
+
+  Object_id: 515
+    Object Type: 2
+      Labels: white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 12
+        Total: 12
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 12
+        Total: 12
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 523
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: grey
+        Count: 33
+        Total: 44
+        Percentage: 0.75
+      Best attribute2: grey
+    Object Type: 3
+      Labels: acura acura acura acura acura acura honda honda honda honda honda honda honda honda toyota toyota toyota ford ford honda 
+      Top attribute: honda
+        Count: 9
+        Total: 20
+        Percentage: 0.45
+      Best attribute2: honda
+    Object Type: 4
+      Labels: van van van van van van sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe 
+      Top attribute: sedan
+        Count: 25
+        Total: 43
+        Percentage: 0.581395
+      Best attribute2: sedan
+
+  Object_id: 528
+    Object Type: 2
+      Labels: white white white white white 
+      Top attribute: white
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 5
+        Total: 5
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 529
+    Object Type: 2
+      Labels: white white white white white white white white white 
+      Top attribute: white
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: sedan
+
+  Object_id: 533
+    Object Type: 2
+      Labels: grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey grey 
+      Top attribute: grey
+        Count: 26
+        Total: 26
+        Percentage: 1
+      Best attribute2: grey
+    Object Type: 3
+      Labels: dodge dodge dodge ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford ford 
+      Top attribute: ford
+        Count: 23
+        Total: 26
+        Percentage: 0.884615
+      Best attribute2: ford
+    Object Type: 4
+      Labels: van van van van van van van van van van van van van van van van van van van van van van van 
+      Top attribute: van
+        Count: 23
+        Total: 23
+        Percentage: 1
+      Best attribute2: van
+
+  Object_id: 537
+    Object Type: 2
+      Labels: silver silver silver silver silver silver white white white white white white white white white white silver silver silver silver silver silver silver silver 
+    Object Type: 3
+      Labels: nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan nissan 
+    Object Type: 4
+      Labels: suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv suv truck truck truck truck truck truck truck 
+
+  Object_id: 553
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white white white white white white 
+      Top attribute: white
+        Count: 18
+        Total: 18
+        Percentage: 1
+      Best attribute2: white
+    Object Type: 4
+      Labels: largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle largevehicle 
+      Top attribute: largevehicle
+        Count: 18
+        Total: 18
+        Percentage: 1
+      Best attribute2: largevehicle
+
+  Object_id: 555
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown 
+      Top attribute: brown
+        Count: 9
+        Total: 9
+        Percentage: 1
+      Best attribute2: brown
+    Object Type: 3
+      Labels: audi audi audi audi audi audi audi audi audi audi audi audi audi audi audi 
+      Top attribute: audi
+        Count: 15
+        Total: 15
+        Percentage: 1
+      Best attribute2: audi
+    Object Type: 4
+      Labels: sedan sedan sedan sedan coupe coupe coupe sedan sedan sedan sedan sedan sedan sedan sedan sedan suv suv sedan sedan sedan sedan sedan 
+      Top attribute: sedan
+        Count: 18
+        Total: 23
+        Percentage: 0.782609
+      Best attribute2: sedan
+
+  Object_id: 561
+    Object Type: 2
+      Labels: silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver silver 
+      Top attribute: silver
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: silver
+    Object Type: 3
+      Labels: dodge dodge 
+    Object Type: 4
+      Labels: truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck truck 
+      Top attribute: truck
+        Count: 50
+        Total: 50
+        Percentage: 1
+      Best attribute2: truck
+
+  Object_id: 569
+    Object Type: 2
+      Labels: silver silver silver 
+    Object Type: 4
+      Labels: sedan sedan sedan 
+
+  Object_id: 580
+    Object Type: 2
+      Labels: brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown brown red red red 
+    Object Type: 3
+      Labels: ford ford ford honda honda honda 
+    Object Type: 4
+      Labels: suv suv suv suv suv truck truck truck truck suv suv suv suv truck truck truck truck truck truck 
+
+  Object_id: 585
+    Object Type: 2
+      Labels: white white white white white white white white white white white white white 
+    Object Type: 4
+      Labels: sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan sedan 
